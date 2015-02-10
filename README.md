@@ -15,6 +15,8 @@ Within Maya, create a shelf icon with the following PYTHON code:
 
 ![Screenshot](screen.jpg)
 
+NOTE: The checkbox "Preserve Spaces" is a great feature to help you not mess up your Spaces. While checked the tool will prevent you from selecting keys that make up the space (the green ones) so as to not mess up the shape. It will also attempt to reshape the curve shape should you move some keyframes around. Try it out in the graph editor by adding a space, selecting one of the end keys and moving it around.
+
 * Key your object.
 
 * Move the time slider into a spot between two keyframes.
